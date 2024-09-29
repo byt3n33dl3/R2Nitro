@@ -1,4 +1,5 @@
 #pragma once
+#include "sys.h"
 #include "Windows.h"
 
 void DoHTTPCrossProtocolRelay(wchar_t*, wchar_t*, wchar_t*, wchar_t*, wchar_t*);
